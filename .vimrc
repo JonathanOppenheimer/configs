@@ -30,6 +30,5 @@ let g:onedark_termcolors=256                     " enable 256 colors support
 set lazyredraw                                   " enable lazyredraw
 set nocursorline                                 " disable cursorline
 set ttyfast                                      " enable fast terminal connection
-" Key Mappings
 
 " Some lines (ironically) taken with love from j7k6
